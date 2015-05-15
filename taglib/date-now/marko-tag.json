@@ -1,0 +1,9 @@
+{
+    "renderer": "./renderer",
+    "@var": "identifier",
+    "vars": [
+        {
+            "name-from-attribute": "var"
+        }
+    ]
+}

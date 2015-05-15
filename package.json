@@ -1,0 +1,14 @@
+{
+  "name": "scoped-variables",
+  "version": "1.0.0",
+  "description": "Demonstrates creating a custom tag that introduces scoped variables at compile-time.",
+  "main": "./run.js",
+  "scripts": {
+    "start": "node run.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "marko": "^2.4.1"
+  }
+}
