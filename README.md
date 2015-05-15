@@ -10,7 +10,7 @@ In this sample app we create a custom tag with the following usage:
 </date-now>
 ```
 
-The `<date-now>` custom tag introduces a scoped variable by declaring the `vars` property in the [taglib/date-now/marko-tag.json] file as shown below:
+The `<date-now>` custom tag introduces a scoped variable by declaring the `vars` property in the [taglib/date-now/marko-tag.json](./taglib/date-now/marko-tag.json) file as shown below:
 
 ```json
 {
