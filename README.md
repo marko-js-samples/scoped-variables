@@ -1,3 +1,5 @@
+_🚨 This method is no longer recommended, please use [tag parameters](https://markojs.com/docs/syntax/#parameters) instead. 🚨_ 
+
 Marko Sample - scoped-variables
 ===============================
 
